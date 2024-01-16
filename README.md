@@ -10,7 +10,7 @@ _Visualização disponivel em: https://nicolemattes.github.io/Colossus-Lab-Landi
 
 ## Descrição
 
-O objetivo deste projeto é criar uma interface atraente para uma plataforma de cursos online. Desenvolvido utilizando HTML, CSS e JavaScript, o projeto foca na apresentação visual e na interatividade para cativar potenciais usuários.
+O objetivo deste projeto é criar uma interface atraente para uma plataforma de cursos online. Desenvolvido utilizando HTML e CSS, o projeto foca na apresentação visual e na interatividade para cativar potenciais usuários.
 
 ## Funcionalidades
 
@@ -23,7 +23,6 @@ O objetivo deste projeto é criar uma interface atraente para uma plataforma de 
 
 <p display="inline-block">
   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html-logo"/>
-  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js-logo"/>
   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css-logo"/>
 </p>
 
